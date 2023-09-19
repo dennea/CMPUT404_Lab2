@@ -1,5 +1,9 @@
 import socket 
-from threading import Thread 
+from threading import Thread
+'''
+Code from CMPUT 404 Lab2
+Monday Lab Fall 2023
+''' 
 
 BYTES_TO_READ = 4096
 HOST = "127.0.0.1"

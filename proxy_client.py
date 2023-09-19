@@ -1,5 +1,8 @@
 import socket
-
+'''
+Code from CMPUT 404 Lab2
+Monday Lab Fall 2023
+'''
 BYTES_TO_READ = 4096
 
 def get(host,port):
